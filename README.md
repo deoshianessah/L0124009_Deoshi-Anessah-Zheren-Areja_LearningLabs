@@ -8,4 +8,6 @@ Website ini bertujuan untuk memperkenalkan beberapa tradisi budaya khas Klaten, 
   
 # Cara mengakses
 - Kunjungi 
-  
+
+---
+Dikembangkan oleh **Deoshi Anessah Zheren Areja** pada Learning Labs Frontend 2024.
