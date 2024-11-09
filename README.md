@@ -6,6 +6,6 @@ Website ini bertujuan untuk memperkenalkan beberapa tradisi budaya khas Klaten, 
 - *Explore* : Pada bagian ini berisikan tentang penjelasan beberapa tradisi budaya Khas Klaten seperti tarian, ritual adat, dan kuliner.
 - *Feedback* : Berisikan formulir bagi pengguna agar dapat mengirimkan feedback.
   
-- # Cara mengakses
+# Cara mengakses
 - Kunjungi 
   
