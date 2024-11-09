@@ -7,7 +7,7 @@ Website ini bertujuan untuk memperkenalkan beberapa tradisi budaya khas Klaten, 
 - *Feedback* : Berisikan formulir bagi pengguna agar dapat mengirimkan feedback.
   
 # Cara mengakses
-- Kunjungi 
+- Kunjungi [deoshi](https://deoshianessah.github.io/L0124009_Deoshi-Anessah-Zheren-Areja_LearningLabs/)
 
 ---
 Dikembangkan oleh **Deoshi Anessah Zheren Areja** pada Learning Labs Frontend 2024.
